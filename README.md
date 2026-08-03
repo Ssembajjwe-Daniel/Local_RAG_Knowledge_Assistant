@@ -64,7 +64,4 @@ http://localhost:8501
 ├── README.md           # Documentation
 └── documents/          # Local documents (not included)
 
-```bash
-
-pip install -r requirements.txt
 
